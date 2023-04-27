@@ -8,7 +8,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
   </br>
-  ![LonelyALL GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyALL&show_icons=true&theme=dracula)
+  (https://github-readme-stats.vercel.app/api?username=LonelyALL&show_icons=true&theme=dracula)
 </div>
 
 
