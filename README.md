@@ -8,3 +8,8 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
 </div>
+
+## Contato:
+
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+##lonelyssh#8797
