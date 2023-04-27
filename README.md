@@ -9,4 +9,5 @@
   </div>
 </div>
 
-[!LonelyALL Github Stats](https://github-readme-stats.vercel.app/api?username=LonelyALL&theme=dracula)
+![LonelyALL GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyALL&show_icons=true&theme=dracula)
+
