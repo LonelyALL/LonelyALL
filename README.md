@@ -9,7 +9,4 @@
   </div>
 </div>
 
-## Contato:
-
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-lonelyssh#8797
+https://github-readme-stats.vercel.app/api?username={username}&theme=dracula
