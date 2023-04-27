@@ -1,5 +1,5 @@
 ## Olá, sou o lonelyssh, programador Full Stack !
-![LonelyALL Github Stats](https://github-readme-stats.vercel.app/api?username=LonelyALL&show_icons=true&theme=dracula)
+
 
 <br>
 <div>
@@ -12,3 +12,4 @@
   </div>
 </div>
 
+![LonelyALL Github Stats](https://github-readme-stats.vercel.app/api?username=LonelyALL&show_icons=true&theme=dracula)
