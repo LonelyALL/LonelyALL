@@ -1,6 +1,6 @@
 ## Tecnologias usadas:
-
-<div style="display: in-line_block">
+<div style="display: flex; align-items: center; justify-content: center;"> 
+  <div style="display: in-line_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 <div style="display: in-line_block">
@@ -12,3 +12,6 @@
 <div style="display: in-line_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+</div>
+
+
