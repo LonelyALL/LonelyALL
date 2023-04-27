@@ -1,4 +1,4 @@
-### Olá, sou o lonelyssh, programador Full Stack !
+###Lonelyssh - Full Stack Programmer
 
 <p>-Programador Free Lancer</p>
 <p>-Contate-me no discord: lonelyssh#8797</p>
