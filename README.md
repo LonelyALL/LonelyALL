@@ -1,5 +1,9 @@
 ### Olá, sou o lonelyssh, programador Full Stack !
-#### Utilizando
+
+#### -Programador Free Lancer
+#### -Contate-me no discord: lonelyssh#8797
+#### -Discord da minha empresa: https://discord.gg/vZ3s2vgYtV
+
 ## Tecnologias que utilizo:
 <div>
   <div>
