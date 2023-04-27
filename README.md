@@ -1,6 +1,6 @@
 
 <div>
-  <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Status E Troféus<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
   
   <p align="center">
   <a href="https://github.com/SrKotaka">
