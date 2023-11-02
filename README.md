@@ -1,9 +1,9 @@
 <h2> Lonelyssh - Full Stack Programmer </h2>
 
-<p>-👨‍💻 Programador Free Lancer</p>
-<p>-📫 Contate-me no discord: lonelyssh</p>
+<p>-👨‍💻 FreeLance Programmer</p>
+<p>-📫 Contact me on discord: lonelyssh</p>
 
-## Tecnologias que utilizo:
+## Main Skills:
 <div>
   <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
