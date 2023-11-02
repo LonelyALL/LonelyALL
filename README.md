@@ -1,7 +1,7 @@
 <h2> Lonelyssh - Full Stack Programmer </h2>
 
 <p>-👨‍💻 Programador Free Lancer</p>
-<p>-📫 Contate-me no discord: lonelyssh#8797</p>
+<p>-📫 Contate-me no discord: lonelyssh</p>
 
 ## Tecnologias que utilizo:
 <div>
